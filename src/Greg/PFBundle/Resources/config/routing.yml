@@ -1,0 +1,24 @@
+accueil:
+  resource: "@GregPFBundle/Controller/DefaultController.php"
+  type: annotation
+  prefix: /
+  
+presentation:
+  resource: "@GregPFBundle/Controller/DefaultController.php"
+  type: annotation
+  prefix: /
+ 
+projets:
+  resource: "@GregPFBundle/Controller/DefaultController.php"
+  type: annotation
+  prefix: /
+ 
+CV:
+  resource: "@GregPFBundle/Controller/DefaultController.php"
+  type: annotation
+  prefix: /
+  
+Parcours:
+  resource: "@GregPFBundle/Controller/DefaultController.php"
+  type: annotation
+  prefix: /
